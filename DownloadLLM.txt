@@ -1,9 +1,0 @@
-Download Link:
-https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF
-
-Model:
-Meta-Llama-3-8B-Instruct.Q8_0.gguf
-
-Replace with any Models in GGUF format.
-Update app.js accordingly.
- 
