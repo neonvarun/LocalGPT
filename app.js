@@ -13,7 +13,7 @@ app.use(express.json());
 
 // Initialize the LLaMA model
 const model = new LlamaModel({
-    modelPath: 'C:\\Users\\varun\\Desktop\\Projects\\MainGPT\\models\\mistral-7b-instruct-v0.2.Q2_K.gguf',
+    modelPath: 'C:\\Users\\user\\Desktop\\Projects\\MainGPT\\models\\mistral-7b-instruct-v0.2.Q2_K.gguf',
     contextSize: 2048,
     threads: 8
 });
