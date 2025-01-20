@@ -1,5 +1,5 @@
 Run Index.html
 
-Follow DownloadLLM.txt
+Model Used : mistral-7b-instruct-v0.2.Q2_K.gguf
 
 Port:5001
